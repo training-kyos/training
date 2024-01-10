@@ -2,7 +2,9 @@
 
 ## Introduction
 
-et ouais, ho ho ho !
+J'aime bien écrire des trucs que les autres doivent résoudre.
+
+Je sais pas écrire!
 
 ### Usage
 
