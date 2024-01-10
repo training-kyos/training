@@ -2,7 +2,7 @@
 
 ## Introduction
 
-elodie haha J'ai fait une super modif!!!!
+elodie haha J'aime bien écrire des trucs que les autres doivent résoudre.
 
 Je sais pas écrire!
 
