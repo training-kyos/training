@@ -2,7 +2,7 @@
 
 ## Introduction
 
-J'aime bien écrire des trucs que les autres doivent résoudre.
+J'aime bien écrire des trucs que les autres doivent résoudre. et moi aussi
 
 Je sais pas écrire!
 
